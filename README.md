@@ -1,3 +1,10 @@
+> [!WARNING]
+> ## LOW ACTIVITY REPOSITORY
+>
+> This project is not abandoned, but it receives updates very infrequently. <br>
+> ***Issues and Pull Requests may be submitted, but expect significant delays in reviews.***
+---
+
 # pc-perf-link
 
 A real-time hardware monitoring system that bridges your PC telemetry to any external device. This project provides a low-latency, high-performance dashboard designed to turn any smartphone, tablet, or secondary computer into a dedicated system monitor.
